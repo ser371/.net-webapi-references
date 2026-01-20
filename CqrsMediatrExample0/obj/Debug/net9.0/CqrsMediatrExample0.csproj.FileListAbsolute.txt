@@ -34,3 +34,13 @@ D:\work\CqrsMediatrExample\CqrsMediatrExample0\CqrsMediatrExample0\obj\Debug\net
 D:\work\CqrsMediatrExample\CqrsMediatrExample0\CqrsMediatrExample0\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\work\CqrsMediatrExample\CqrsMediatrExample0\CqrsMediatrExample0\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\work\CqrsMediatrExample\CqrsMediatrExample0\CqrsMediatrExample0\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\work\CqrsMediatrExample\CqrsMediatrExample0\CqrsMediatrExample0\obj\Debug\net9.0\CqrsMediatrExample0.sourcelink.json
+D:\work\CqrsMediatrExample\CqrsMediatrExample0\CqrsMediatrExample0\bin\Debug\net9.0\MediatR.dll
+D:\work\CqrsMediatrExample\CqrsMediatrExample0\CqrsMediatrExample0\bin\Debug\net9.0\MediatR.Contracts.dll
+D:\work\CqrsMediatrExample\CqrsMediatrExample0\CqrsMediatrExample0\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\work\CqrsMediatrExample\CqrsMediatrExample0\CqrsMediatrExample0\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\work\CqrsMediatrExample\CqrsMediatrExample0\CqrsMediatrExample0\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\work\CqrsMediatrExample\CqrsMediatrExample0\CqrsMediatrExample0\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\work\CqrsMediatrExample\CqrsMediatrExample0\CqrsMediatrExample0\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\work\CqrsMediatrExample\CqrsMediatrExample0\CqrsMediatrExample0\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\work\CqrsMediatrExample\CqrsMediatrExample0\CqrsMediatrExample0\bin\Debug\net9.0\System.Diagnostics.DiagnosticSource.dll

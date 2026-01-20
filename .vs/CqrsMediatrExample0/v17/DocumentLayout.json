@@ -3,12 +3,64 @@
   "WorkspaceRootPath": "D:\\work\\CqrsMediatrExample\\CqrsMediatrExample0\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ED13865B-F5D9-4B94-9B87-A1FDC1F5E51F}|CqrsMediatrExample0\\CqrsMediatrExample0.csproj|d:\\work\\cqrsmediatrexample\\cqrsmediatrexample0\\cqrsmediatrexample0\\cqrsmediatrexample0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{ED13865B-F5D9-4B94-9B87-A1FDC1F5E51F}|CqrsMediatrExample0\\CqrsMediatrExample0.csproj|solutionrelative:cqrsmediatrexample0\\cqrsmediatrexample0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{ED13865B-F5D9-4B94-9B87-A1FDC1F5E51F}|CqrsMediatrExample0\\CqrsMediatrExample0.csproj|d:\\work\\cqrsmediatrexample\\cqrsmediatrexample0\\cqrsmediatrexample0\\fakedatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED13865B-F5D9-4B94-9B87-A1FDC1F5E51F}|CqrsMediatrExample0\\CqrsMediatrExample0.csproj|solutionrelative:cqrsmediatrexample0\\fakedatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ED13865B-F5D9-4B94-9B87-A1FDC1F5E51F}|CqrsMediatrExample0\\CqrsMediatrExample0.csproj|d:\\work\\cqrsmediatrexample\\cqrsmediatrexample0\\cqrsmediatrexample0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED13865B-F5D9-4B94-9B87-A1FDC1F5E51F}|CqrsMediatrExample0\\CqrsMediatrExample0.csproj|solutionrelative:cqrsmediatrexample0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED13865B-F5D9-4B94-9B87-A1FDC1F5E51F}|CqrsMediatrExample0\\CqrsMediatrExample0.csproj|d:\\work\\cqrsmediatrexample\\cqrsmediatrexample0\\cqrsmediatrexample0\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED13865B-F5D9-4B94-9B87-A1FDC1F5E51F}|CqrsMediatrExample0\\CqrsMediatrExample0.csproj|solutionrelative:cqrsmediatrexample0\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED13865B-F5D9-4B94-9B87-A1FDC1F5E51F}|CqrsMediatrExample0\\CqrsMediatrExample0.csproj|d:\\work\\cqrsmediatrexample\\cqrsmediatrexample0\\cqrsmediatrexample0\\commands\\addproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED13865B-F5D9-4B94-9B87-A1FDC1F5E51F}|CqrsMediatrExample0\\CqrsMediatrExample0.csproj|solutionrelative:cqrsmediatrexample0\\commands\\addproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED13865B-F5D9-4B94-9B87-A1FDC1F5E51F}|CqrsMediatrExample0\\CqrsMediatrExample0.csproj|d:\\work\\cqrsmediatrexample\\cqrsmediatrexample0\\cqrsmediatrexample0\\handlers\\addproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED13865B-F5D9-4B94-9B87-A1FDC1F5E51F}|CqrsMediatrExample0\\CqrsMediatrExample0.csproj|solutionrelative:cqrsmediatrexample0\\handlers\\addproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED13865B-F5D9-4B94-9B87-A1FDC1F5E51F}|CqrsMediatrExample0\\CqrsMediatrExample0.csproj|d:\\work\\cqrsmediatrexample\\cqrsmediatrexample0\\cqrsmediatrexample0\\notification\\productaddednotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED13865B-F5D9-4B94-9B87-A1FDC1F5E51F}|CqrsMediatrExample0\\CqrsMediatrExample0.csproj|solutionrelative:cqrsmediatrexample0\\notification\\productaddednotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED13865B-F5D9-4B94-9B87-A1FDC1F5E51F}|CqrsMediatrExample0\\CqrsMediatrExample0.csproj|d:\\work\\cqrsmediatrexample\\cqrsmediatrexample0\\cqrsmediatrexample0\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED13865B-F5D9-4B94-9B87-A1FDC1F5E51F}|CqrsMediatrExample0\\CqrsMediatrExample0.csproj|solutionrelative:cqrsmediatrexample0\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED13865B-F5D9-4B94-9B87-A1FDC1F5E51F}|CqrsMediatrExample0\\CqrsMediatrExample0.csproj|d:\\work\\cqrsmediatrexample\\cqrsmediatrexample0\\cqrsmediatrexample0\\handlers\\cacheinvalidationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED13865B-F5D9-4B94-9B87-A1FDC1F5E51F}|CqrsMediatrExample0\\CqrsMediatrExample0.csproj|solutionrelative:cqrsmediatrexample0\\handlers\\cacheinvalidationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED13865B-F5D9-4B94-9B87-A1FDC1F5E51F}|CqrsMediatrExample0\\CqrsMediatrExample0.csproj|d:\\work\\cqrsmediatrexample\\cqrsmediatrexample0\\cqrsmediatrexample0\\handlers\\emailhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED13865B-F5D9-4B94-9B87-A1FDC1F5E51F}|CqrsMediatrExample0\\CqrsMediatrExample0.csproj|solutionrelative:cqrsmediatrexample0\\handlers\\emailhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED13865B-F5D9-4B94-9B87-A1FDC1F5E51F}|CqrsMediatrExample0\\CqrsMediatrExample0.csproj|d:\\work\\cqrsmediatrexample\\cqrsmediatrexample0\\cqrsmediatrexample0\\queries\\getproductbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED13865B-F5D9-4B94-9B87-A1FDC1F5E51F}|CqrsMediatrExample0\\CqrsMediatrExample0.csproj|solutionrelative:cqrsmediatrexample0\\queries\\getproductbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED13865B-F5D9-4B94-9B87-A1FDC1F5E51F}|CqrsMediatrExample0\\CqrsMediatrExample0.csproj|d:\\work\\cqrsmediatrexample\\cqrsmediatrexample0\\cqrsmediatrexample0\\handlers\\getproductbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED13865B-F5D9-4B94-9B87-A1FDC1F5E51F}|CqrsMediatrExample0\\CqrsMediatrExample0.csproj|solutionrelative:cqrsmediatrexample0\\handlers\\getproductbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED13865B-F5D9-4B94-9B87-A1FDC1F5E51F}|CqrsMediatrExample0\\CqrsMediatrExample0.csproj|d:\\work\\cqrsmediatrexample\\cqrsmediatrexample0\\cqrsmediatrexample0\\handlers\\getproductshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED13865B-F5D9-4B94-9B87-A1FDC1F5E51F}|CqrsMediatrExample0\\CqrsMediatrExample0.csproj|solutionrelative:cqrsmediatrexample0\\handlers\\getproductshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED13865B-F5D9-4B94-9B87-A1FDC1F5E51F}|CqrsMediatrExample0\\CqrsMediatrExample0.csproj|d:\\work\\cqrsmediatrexample\\cqrsmediatrexample0\\cqrsmediatrexample0\\queries\\getproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED13865B-F5D9-4B94-9B87-A1FDC1F5E51F}|CqrsMediatrExample0\\CqrsMediatrExample0.csproj|solutionrelative:cqrsmediatrexample0\\queries\\getproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED13865B-F5D9-4B94-9B87-A1FDC1F5E51F}|CqrsMediatrExample0\\CqrsMediatrExample0.csproj|d:\\work\\cqrsmediatrexample\\cqrsmediatrexample0\\cqrsmediatrexample0\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED13865B-F5D9-4B94-9B87-A1FDC1F5E51F}|CqrsMediatrExample0\\CqrsMediatrExample0.csproj|solutionrelative:cqrsmediatrexample0\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED13865B-F5D9-4B94-9B87-A1FDC1F5E51F}|CqrsMediatrExample0\\CqrsMediatrExample0.csproj|d:\\work\\cqrsmediatrexample\\cqrsmediatrexample0\\cqrsmediatrexample0\\cqrsmediatrexample0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ED13865B-F5D9-4B94-9B87-A1FDC1F5E51F}|CqrsMediatrExample0\\CqrsMediatrExample0.csproj|solutionrelative:cqrsmediatrexample0\\cqrsmediatrexample0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,13 +82,182 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CacheInvalidationHandler.cs",
+              "DocumentMoniker": "D:\\work\\CqrsMediatrExample\\CqrsMediatrExample0\\CqrsMediatrExample0\\Handlers\\CacheInvalidationHandler.cs",
+              "RelativeDocumentMoniker": "CqrsMediatrExample0\\Handlers\\CacheInvalidationHandler.cs",
+              "ToolTip": "D:\\work\\CqrsMediatrExample\\CqrsMediatrExample0\\CqrsMediatrExample0\\Handlers\\CacheInvalidationHandler.cs",
+              "RelativeToolTip": "CqrsMediatrExample0\\Handlers\\CacheInvalidationHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T12:04:46.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmailHandler.cs",
+              "DocumentMoniker": "D:\\work\\CqrsMediatrExample\\CqrsMediatrExample0\\CqrsMediatrExample0\\Handlers\\EmailHandler.cs",
+              "RelativeDocumentMoniker": "CqrsMediatrExample0\\Handlers\\EmailHandler.cs",
+              "ToolTip": "D:\\work\\CqrsMediatrExample\\CqrsMediatrExample0\\CqrsMediatrExample0\\Handlers\\EmailHandler.cs",
+              "RelativeToolTip": "CqrsMediatrExample0\\Handlers\\EmailHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T12:03:58.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductAddedNotification.cs",
+              "DocumentMoniker": "D:\\work\\CqrsMediatrExample\\CqrsMediatrExample0\\CqrsMediatrExample0\\Notification\\ProductAddedNotification.cs",
+              "RelativeDocumentMoniker": "CqrsMediatrExample0\\Notification\\ProductAddedNotification.cs",
+              "ToolTip": "D:\\work\\CqrsMediatrExample\\CqrsMediatrExample0\\CqrsMediatrExample0\\Notification\\ProductAddedNotification.cs",
+              "RelativeToolTip": "CqrsMediatrExample0\\Notification\\ProductAddedNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T12:03:23.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetProductByIdHandler.cs",
+              "DocumentMoniker": "D:\\work\\CqrsMediatrExample\\CqrsMediatrExample0\\CqrsMediatrExample0\\Handlers\\GetProductByIdHandler.cs",
+              "RelativeDocumentMoniker": "CqrsMediatrExample0\\Handlers\\GetProductByIdHandler.cs",
+              "ToolTip": "D:\\work\\CqrsMediatrExample\\CqrsMediatrExample0\\CqrsMediatrExample0\\Handlers\\GetProductByIdHandler.cs",
+              "RelativeToolTip": "CqrsMediatrExample0\\Handlers\\GetProductByIdHandler.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T11:51:43.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetProductByIdQuery.cs",
+              "DocumentMoniker": "D:\\work\\CqrsMediatrExample\\CqrsMediatrExample0\\CqrsMediatrExample0\\Queries\\GetProductByIdQuery.cs",
+              "RelativeDocumentMoniker": "CqrsMediatrExample0\\Queries\\GetProductByIdQuery.cs",
+              "ToolTip": "D:\\work\\CqrsMediatrExample\\CqrsMediatrExample0\\CqrsMediatrExample0\\Queries\\GetProductByIdQuery.cs",
+              "RelativeToolTip": "CqrsMediatrExample0\\Queries\\GetProductByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T11:49:15.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddProductHandler.cs",
+              "DocumentMoniker": "D:\\work\\CqrsMediatrExample\\CqrsMediatrExample0\\CqrsMediatrExample0\\Handlers\\AddProductHandler.cs",
+              "RelativeDocumentMoniker": "CqrsMediatrExample0\\Handlers\\AddProductHandler.cs",
+              "ToolTip": "D:\\work\\CqrsMediatrExample\\CqrsMediatrExample0\\CqrsMediatrExample0\\Handlers\\AddProductHandler.cs",
+              "RelativeToolTip": "CqrsMediatrExample0\\Handlers\\AddProductHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T11:32:38.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddProductCommand.cs",
+              "DocumentMoniker": "D:\\work\\CqrsMediatrExample\\CqrsMediatrExample0\\CqrsMediatrExample0\\Commands\\AddProductCommand.cs",
+              "RelativeDocumentMoniker": "CqrsMediatrExample0\\Commands\\AddProductCommand.cs",
+              "ToolTip": "D:\\work\\CqrsMediatrExample\\CqrsMediatrExample0\\CqrsMediatrExample0\\Commands\\AddProductCommand.cs",
+              "RelativeToolTip": "CqrsMediatrExample0\\Commands\\AddProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T11:28:10.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetProductsHandler.cs",
+              "DocumentMoniker": "D:\\work\\CqrsMediatrExample\\CqrsMediatrExample0\\CqrsMediatrExample0\\Handlers\\GetProductsHandler.cs",
+              "RelativeDocumentMoniker": "CqrsMediatrExample0\\Handlers\\GetProductsHandler.cs",
+              "ToolTip": "D:\\work\\CqrsMediatrExample\\CqrsMediatrExample0\\CqrsMediatrExample0\\Handlers\\GetProductsHandler.cs",
+              "RelativeToolTip": "CqrsMediatrExample0\\Handlers\\GetProductsHandler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T11:10:16.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetProductsQuery.cs",
+              "DocumentMoniker": "D:\\work\\CqrsMediatrExample\\CqrsMediatrExample0\\CqrsMediatrExample0\\Queries\\GetProductsQuery.cs",
+              "RelativeDocumentMoniker": "CqrsMediatrExample0\\Queries\\GetProductsQuery.cs",
+              "ToolTip": "D:\\work\\CqrsMediatrExample\\CqrsMediatrExample0\\CqrsMediatrExample0\\Queries\\GetProductsQuery.cs",
+              "RelativeToolTip": "CqrsMediatrExample0\\Queries\\GetProductsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T11:02:20.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\work\\CqrsMediatrExample\\CqrsMediatrExample0\\CqrsMediatrExample0\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "CqrsMediatrExample0\\WeatherForecast.cs",
+              "ToolTip": "D:\\work\\CqrsMediatrExample\\CqrsMediatrExample0\\CqrsMediatrExample0\\WeatherForecast.cs",
+              "RelativeToolTip": "CqrsMediatrExample0\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T10:41:58.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CqrsMediatrExample0",
+              "Title": "FakeDataStore.cs",
+              "DocumentMoniker": "D:\\work\\CqrsMediatrExample\\CqrsMediatrExample0\\CqrsMediatrExample0\\FakeDataStore.cs",
+              "RelativeDocumentMoniker": "CqrsMediatrExample0\\FakeDataStore.cs",
+              "ToolTip": "D:\\work\\CqrsMediatrExample\\CqrsMediatrExample0\\CqrsMediatrExample0\\FakeDataStore.cs",
+              "RelativeToolTip": "CqrsMediatrExample0\\FakeDataStore.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAewB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T10:23:39.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\work\\CqrsMediatrExample\\CqrsMediatrExample0\\CqrsMediatrExample0\\Product.cs",
+              "RelativeDocumentMoniker": "CqrsMediatrExample0\\Product.cs",
+              "ToolTip": "D:\\work\\CqrsMediatrExample\\CqrsMediatrExample0\\CqrsMediatrExample0\\Product.cs",
+              "RelativeToolTip": "CqrsMediatrExample0\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T10:22:34.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\work\\CqrsMediatrExample\\CqrsMediatrExample0\\CqrsMediatrExample0\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "CqrsMediatrExample0\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\work\\CqrsMediatrExample\\CqrsMediatrExample0\\CqrsMediatrExample0\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "CqrsMediatrExample0\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAYwGEAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T10:11:42.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CqrsMediatrExample0.csproj",
               "DocumentMoniker": "D:\\work\\CqrsMediatrExample\\CqrsMediatrExample0\\CqrsMediatrExample0\\CqrsMediatrExample0.csproj",
               "RelativeDocumentMoniker": "CqrsMediatrExample0\\CqrsMediatrExample0.csproj",
               "ToolTip": "D:\\work\\CqrsMediatrExample\\CqrsMediatrExample0\\CqrsMediatrExample0\\CqrsMediatrExample0.csproj",
               "RelativeToolTip": "CqrsMediatrExample0\\CqrsMediatrExample0.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-01-20T10:04:32.903Z",
               "EditorCaption": ""
@@ -49,7 +270,7 @@
               "RelativeDocumentMoniker": "CqrsMediatrExample0\\Program.cs",
               "ToolTip": "D:\\work\\CqrsMediatrExample\\CqrsMediatrExample0\\CqrsMediatrExample0\\Program.cs",
               "RelativeToolTip": "CqrsMediatrExample0\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAowBUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAsAAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-20T10:02:18.506Z",
               "EditorCaption": ""
